@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Covid19-Tracker-in-reactjs-Second-Design/static/css/main.c5800b26.chunk.css",
+    "main.js": "/Covid19-Tracker-in-reactjs-Second-Design/static/js/main.8dbe35bb.chunk.js",
+    "main.js.map": "/Covid19-Tracker-in-reactjs-Second-Design/static/js/main.8dbe35bb.chunk.js.map",
+    "runtime-main.js": "/Covid19-Tracker-in-reactjs-Second-Design/static/js/runtime-main.e743eb01.js",
+    "runtime-main.js.map": "/Covid19-Tracker-in-reactjs-Second-Design/static/js/runtime-main.e743eb01.js.map",
+    "static/js/2.673fae2d.chunk.js": "/Covid19-Tracker-in-reactjs-Second-Design/static/js/2.673fae2d.chunk.js",
+    "static/js/2.673fae2d.chunk.js.map": "/Covid19-Tracker-in-reactjs-Second-Design/static/js/2.673fae2d.chunk.js.map",
+    "index.html": "/Covid19-Tracker-in-reactjs-Second-Design/index.html",
+    "precache-manifest.6c0a09ac0d6e13c3a1a33e0caacc4cbf.js": "/Covid19-Tracker-in-reactjs-Second-Design/precache-manifest.6c0a09ac0d6e13c3a1a33e0caacc4cbf.js",
+    "service-worker.js": "/Covid19-Tracker-in-reactjs-Second-Design/service-worker.js",
+    "static/css/main.c5800b26.chunk.css.map": "/Covid19-Tracker-in-reactjs-Second-Design/static/css/main.c5800b26.chunk.css.map",
+    "static/js/2.673fae2d.chunk.js.LICENSE.txt": "/Covid19-Tracker-in-reactjs-Second-Design/static/js/2.673fae2d.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/Covid19-Tracker-in-reactjs-Second-Design/static/media/image.d7265326.png",
+    "static/media/logo.svg": "/Covid19-Tracker-in-reactjs-Second-Design/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e743eb01.js",
+    "static/js/2.673fae2d.chunk.js",
+    "static/css/main.c5800b26.chunk.css",
+    "static/js/main.8dbe35bb.chunk.js"
+  ]
+}
